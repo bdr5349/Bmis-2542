@@ -1,0 +1,46 @@
+﻿Country Name,Country Code,Series Name,Series Code,2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015]
+Germany,DEU,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,881300,852550,866670,883920,843660,847460
+Germany,DEU,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,13.3830633770785,17.4731731738326,19.5125040483039,20.4390586859838,22.9807472770598,26.2710872790643
+Germany,DEU,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,59.4572466855947,60.400870842583,59.6811379501634,59.2383224450782,56.7323430952925,55.0630531681038
+Germany,DEU,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,32.7974276527331,32.9032258064516,32.9032258064516,36.4500792393027,36.4500792393027,36.4500792393027
+United Kingdom,GBR,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,594560,551940,573410,554670,513800,497740
+United Kingdom,GBR,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.87088285184344,7.9284295108727,9.95585976238163,13.6651728823286,17.5052864211302,22.9703052717954
+United Kingdom,GBR,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,76.3785477623534,71.0662200152243,68.4682031950976,64.5925288277872,60.9687646327242,53.1808559978118
+United Kingdom,GBR,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,22,22.3076923076923,22.4615384615385,22.4615384615385,22.6153846153846,29.3846153846154
+Sweden,SWE,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,60070,56110,53230,51530,50120,50050
+Sweden,SWE,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,10.5772598679779,11.7301369680674,11.6429137926891,13.9363919728682,14.3122289227243,16.7540495643206
+Sweden,SWE,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,4.430823117338,2.52905080729964,1.52551130764979,1.54478504355327,1.03937377079073,1.08503004366057
+Sweden,SWE,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,44.9856733524355,44.6991404011461,44.6991404011461,44.9856733524355,44.6991404011461,43.5530085959885
+Netherlands,NLD,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,202130,188890,187110,186690,179380,188330
+Netherlands,NLD,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,9.29990777228138,10.7622649456403,12.0137853588646,11.8630573248408,11.2127482643254,12.3575906241483
+Netherlands,NLD,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,85.8438836253878,83.903547642656,82.2532866076788,83.3932924431863,83.0106944632463,82.2331243753975
+Netherlands,NLD,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,40.6666666666667,40.6666666666667,38.6666666666667,38.6666666666667,38.6666666666667,37.3333333333333
+Italy,ITA,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,485460,474590,456710,424930,405240,416150
+Italy,ITA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,8.65171886348499,12.353316835635,16.9351963349905,20.5752512078469,22.3410375526759,22.5058779238676
+Italy,ITA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,73.2616401080419,71.3698411431308,67.9648029922838,60.0363309240072,55.4890765004531,60.2467662539689
+Italy,ITA,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21.2698412698413,21.5873015873016,21.4285714285714,31.4285714285714,31.4285714285714,30.952380952381
+Austria,AUT,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,82720,80790,77570,78120,74350,75480
+Austria,AUT,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,9.74033620867312,10.6420220966084,10.7757240576335,12.8923315259489,14.4994806543755,16.493693635348
+Austria,AUT,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,32.8686666470398,33.3809737923947,24.3021394265755,20.8350116189001,17.7210464814334,22.2220423230737
+Austria,AUT,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,27.8688524590164,27.8688524590164,27.8688524590164,33.3333333333333,32.2404371584699,30.6010928961749
+Belgium,BEL,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,124460,112180,111590,112860,106460,111520
+Belgium,BEL,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.58830049129837,9.19068910508459,12.3754916014261,13.7468964510004,16.6722609157786,20.3427848392477
+Belgium,BEL,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,40.2640861956881,35.0225807176399,35.9515320812046,31.936127744511,33.4773852479651,39.2146431241732
+Belgium,BEL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,39.3333333333333,38,38,38,39.3333333333333,39.3333333333333
+Denmark,DNK,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,61800,56460,51390,52940,48690,46610
+Denmark,DNK,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,31.9283618959395,40.205512503903,48.27204325592,45.9229197248367,55.8538404175988,65.443742011262
+Denmark,DNK,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,66.0954145437703,57.5378239518578,49.2948112439334,51.9816941542181,41.8499875714641,31.8996787231838
+Denmark,DNK,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,37.9888268156425,39.1061452513966,39.1061452513966,39.1061452513966,39.1061452513966,37.4301675977654
+Spain,ESP,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,349440,348820,342540,316480,314950,325510
+Spain,ESP,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,18.5947975328506,19.5267774145637,22.5952738975716,26.4851036614614,25.859341186911,24.8200092155282
+Spain,ESP,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,46.1705551086082,49.8489021826003,49.2001823488988,40.0188313880154,38.8031962291189,44.0671437622394
+Spain,ESP,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,36.5714285714286,36,36,36,39.7142857142857,41.1428571428571
+France,FRA,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,470790,453510,456320,457250,424130,430140
+France,FRA,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.74364904259372,3.52424174342844,4.34270980091747,4.57658318463611,5.19396949616148,6.19651673309742
+France,FRA,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,9.85246816768123,8.53525050550438,8.70613318476695,7.76640312581548,4.82454646646245,6.05578763926501
+France,FRA,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,18.8908145580589,18.8908145580589,26.8630849220104,26.8630849220104,26.1698440207972,26.1698440207972
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,
+Last Updated: 09/15/2021,,,,,,,,,
